@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="442bee37-a313-1110-990a-3dab85e41fe6"/>
+            <attribute id="Name" type="LSString" value="DnD5R_Barbarian"/>
+            <attribute id="UUID" type="LSString" value="1292a188-b44f-5182-f1fa-abefe2490436"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

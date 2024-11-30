@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="9c1818e3-3567-58ec-e0c6-6ed8f9f28e1e"/>
+            <attribute id="Name" type="LSString" value="DnD5R_Paladin"/>
+            <attribute id="UUID" type="LSString" value="049ef148-3f1b-5dc0-8e12-8028f1b8f4e6"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

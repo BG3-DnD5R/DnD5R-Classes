@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="6"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Sorcerer"/>
+                    <attribute id="Description" type="TranslatedString" handle="he14a9858g98f0gd748g0610gb563ed6cf75b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf7401af4gae3bga606gcc16g2aa01fa05ba3" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="4"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellList" type="guid" value="2ba5248a-f014-409d-ab26-b50116f7e477"/>
+                    <attribute id="UUID" type="guid" value="784001e2-c96d-4153-beb6-2adbef5abc92"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="18266c0b-efbc-4c80-8784-ada4a37218d7"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

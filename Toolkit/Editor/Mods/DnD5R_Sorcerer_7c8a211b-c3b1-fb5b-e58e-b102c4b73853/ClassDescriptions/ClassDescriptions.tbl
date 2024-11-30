@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a86b6e82-0a7f-47cb-bff1-a0a6d161fa30">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="784001e2-c96d-4153-beb6-2adbef5abc92" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Sorcerer" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf7401af4gae3bga606gcc16g2aa01fa05ba3" version="1" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d" />
+        <field name="PrimaryAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+        <field name="LearningStrategy" type="EnumerationTableFieldDefinition" value="AllChildren" enumeration_type_name="LearningStrategy" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="18266c0b-efbc-4c80-8784-ada4a37218d7" />
+        <field name="ClassEquipment" type="FixedStringTableFieldDefinition" value="EQP_CC_Sorcerer" />
+        <field name="CharacterCreationPose" type="GuidTableFieldDefinition" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+        <field name="BaseHp" type="IntegerTableFieldDefinition" value="6" />
+        <field name="HpPerLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he14a9858g98f0gd748g0610gb563ed6cf75b" version="1" />
+        <field name="SoundClassType" type="FixedStringTableFieldDefinition" value="Sorcerer" />
+        <field name="MulticlassSpellcasterModifier" type="FloatTableFieldDefinition" value="1" />
+        <field name="SpellList" type="GuidObjectTableFieldDefinition" value="2ba5248a-f014-409d-ab26-b50116f7e477" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

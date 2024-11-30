@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a86b6e82-0a7f-47cb-bff1-a0a6d161fa30">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Wizard" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc770c138g60adg914ag70c3gea6f1abea342" version="1" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="d18eda7e-4b7d-490d-9952-cd33a3c60479" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h33d537c8g25a6gd07agd9a8gde39317e5bd9" version="1" />
+        <field name="MustPrepareSpells" type="BoolTableFieldDefinition" value="True" />
+        <field name="PrimaryAbility" type="EnumerationTableFieldDefinition" value="Intelligence" enumeration_type_name="Ability" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c" />
+        <field name="ClassEquipment" type="FixedStringTableFieldDefinition" value="EQP_CC_Wizard" />
+        <field name="CharacterCreationPose" type="GuidTableFieldDefinition" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Intelligence" enumeration_type_name="Ability" version="1" />
+        <field name="LearningStrategy" type="EnumerationTableFieldDefinition" value="AllChildren" enumeration_type_name="LearningStrategy" version="1" />
+        <field name="CanLearnSpells" type="BoolTableFieldDefinition" value="True" />
+        <field name="BaseHp" type="IntegerTableFieldDefinition" value="6" />
+        <field name="HpPerLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="SoundClassType" type="FixedStringTableFieldDefinition" value="Wizard" />
+        <field name="IsDefaultForUseSpellAction" type="BoolTableFieldDefinition" value="True" />
+        <field name="MulticlassSpellcasterModifier" type="FloatTableFieldDefinition" value="1" />
+        <field name="SpellList" type="GuidObjectTableFieldDefinition" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

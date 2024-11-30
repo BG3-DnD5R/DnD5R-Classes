@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a86b6e82-0a7f-47cb-bff1-a0a6d161fa30">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_35" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Paladin" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb6ecd029g414ag0fa1g08a1gb71ebda951a3" version="1" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="ba2afe85-acba-4ea1-a238-2b4543f47821" />
+        <field name="PrimaryAbility" type="EnumerationTableFieldDefinition" value="Strength" enumeration_type_name="Ability" version="1" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+        <field name="LearningStrategy" type="EnumerationTableFieldDefinition" value="AllChildren" enumeration_type_name="LearningStrategy" version="1" />
+        <field name="MustPrepareSpells" type="BoolTableFieldDefinition" value="True" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="6d85ab2d-5c23-498c-a61e-98f05a00177a" />
+        <field name="CharacterCreationPose" type="GuidTableFieldDefinition" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+        <field name="BaseHp" type="IntegerTableFieldDefinition" value="10" />
+        <field name="HpPerLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="HasGod" type="BoolTableFieldDefinition" value="False" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h66faf7e1g6ac6g1975gd893g5abe3169c5e0" version="1" />
+        <field name="SoundClassType" type="FixedStringTableFieldDefinition" value="Paladin" />
+        <field name="MulticlassSpellcasterModifier" type="FloatTableFieldDefinition" value="0.5" />
+        <field name="SpellList" type="GuidObjectTableFieldDefinition" value="4ed41a6d-19fd-4ca8-940a-072314b71e43" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

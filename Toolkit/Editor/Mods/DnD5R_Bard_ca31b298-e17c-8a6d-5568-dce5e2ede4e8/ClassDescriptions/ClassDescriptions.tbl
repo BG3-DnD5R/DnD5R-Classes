@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a86b6e82-0a7f-47cb-bff1-a0a6d161fa30">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Bard" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="had1c12f7g83f2g8018ge929gd617df9cfc5e" version="1" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="229c98da-2cd1-4a5e-8051-9d90ec7931e7" />
+        <field name="PrimaryAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+        <field name="LearningStrategy" type="EnumerationTableFieldDefinition" value="AllChildren" enumeration_type_name="LearningStrategy" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+        <field name="ClassEquipment" type="FixedStringTableFieldDefinition" value="EQP_CC_Bard" />
+        <field name="CharacterCreationPose" type="GuidTableFieldDefinition" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+        <field name="BaseHp" type="IntegerTableFieldDefinition" value="8" />
+        <field name="HpPerLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc8a83f3cg802age963gfdaeg7433c8870e91" version="1" />
+        <field name="SoundClassType" type="FixedStringTableFieldDefinition" value="Bard" />
+        <field name="CommonHotbarColumns" type="IntegerTableFieldDefinition" value="9" />
+        <field name="ClassHotbarColumns" type="IntegerTableFieldDefinition" value="5" />
+        <field name="ItemsHotbarColumns" type="IntegerTableFieldDefinition" value="2" />
+        <field name="MulticlassSpellcasterModifier" type="FloatTableFieldDefinition" value="1" />
+        <field name="IsSomaticWithInstrument" type="BoolTableFieldDefinition" value="True" />
+        <field name="SpellList" type="GuidObjectTableFieldDefinition" value="c98f2011-31e1-4e9a-8061-62c8679c645e" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

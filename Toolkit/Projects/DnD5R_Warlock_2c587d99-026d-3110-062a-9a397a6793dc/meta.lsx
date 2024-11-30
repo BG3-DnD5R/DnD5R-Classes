@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="2c587d99-026d-3110-062a-9a397a6793dc"/>
+            <attribute id="Name" type="LSString" value="DnD5R_Warlock"/>
+            <attribute id="UUID" type="LSString" value="f42a3fe4-f7d1-9191-ed86-c214f31b2060"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
