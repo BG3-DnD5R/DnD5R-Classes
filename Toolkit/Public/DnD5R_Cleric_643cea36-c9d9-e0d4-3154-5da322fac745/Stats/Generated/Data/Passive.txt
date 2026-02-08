@@ -1,0 +1,16 @@
+new entry "DivineOrder_Protector"
+type "PassiveData"
+data "DisplayName" "h08386bddg0fa6g3869g519bg4b231bfbaf10;1"
+data "Description" "hdac4ebe1ga8d8ge0ccgb64eg58e8356b4bf5;1"
+data "Icon" "PassiveFeature_HeavyArmorMaster"
+data "Properties" "Highlighted"
+data "Boosts" "Proficiency(HeavyArmor);Proficiency(MartialWeapons);"
+
+new entry "DivineOrder_Thaumaturge"
+type "PassiveData"
+data "DisplayName" "h8134307egd8f9ge3b6g49ccgf16667efdbe0;1"
+data "Description" "h36795dcbgb81ag723fg427dgef12fdf09cbd;1"
+data "Icon" "Spell_Abjuration_BladeWard"
+data "Properties" "Highlighted"
+data "Boosts" "RollBonus(SkillCheck,WisdomModifier, Arcana);RollBonus(SkillCheck,WisdomModifier,Religion);"
+

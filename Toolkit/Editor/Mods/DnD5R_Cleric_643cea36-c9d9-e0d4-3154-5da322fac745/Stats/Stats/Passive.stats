@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="746402e7-caa8-4c79-8b04-e09d56230bf8" />
+        <field name="Name" type="NameTableFieldDefinition" value="DivineOrder_Protector" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h08386bddg0fa6g3869g519bg4b231bfbaf10" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdac4ebe1ga8d8ge0ccgb64eg58e8356b4bf5" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_HeavyArmorMaster" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(HeavyArmor);Proficiency(MartialWeapons);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="48818eb8-c930-4b1b-bde7-b585cf3bfe0e" />
+        <field name="Name" type="NameTableFieldDefinition" value="DivineOrder_Thaumaturge" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8134307egd8f9ge3b6g49ccgf16667efdbe0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h36795dcbgb81ag723fg427dgef12fdf09cbd" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_BladeWard" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(SkillCheck,WisdomModifier, Arcana);RollBonus(SkillCheck,WisdomModifier,Religion);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

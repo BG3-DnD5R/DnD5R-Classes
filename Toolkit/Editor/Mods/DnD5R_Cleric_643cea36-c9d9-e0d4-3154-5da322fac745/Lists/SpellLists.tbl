@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3f5063e7-e02b-4849-a503-9ba01dc6e2e6">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b4ef4e54-3f09-49b6-bbb4-5d1121bfb325" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Death Domain 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_FalseLife;Projectile_RayOfSickness" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="070e22ed-b6f9-44ee-befa-fe611c95cfee" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Death Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blindness;Projectile_RayOfEnfeeblement" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f94a649-35bb-4ef1-bd77-6a7ee6206db9" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Death Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_AnimateDead;Target_VampiricTouch" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9bd92577-7ab4-43d4-bb4c-11b7a4b3dab0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Death Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blight;Target_DeathWard" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="673543a9-8656-4c1d-8567-88ec32f2ca94" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Death Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Cloudkill;Target_Contagion" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6c7083cd-e957-449d-a652-33dfbd9785e6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Knowledge Domain 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Command_Container;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2fbc1acc-ea80-4b61-9bed-e5e7dd50ad16" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Knowledge Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_DetectThoughts;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1ff2f87b-4570-4553-a5fa-f7b1cab557fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Knowledge Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_SpeakWithDead;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="46b54ac1-7add-4ef3-8610-558aee8c4dda" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Knowledge Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Banishment;Target_Confusion;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db3bbbe0-01cc-4e35-8186-0c6757182ec4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Knowledge Domain 9" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="26ffbe70-23c6-4918-9e6a-a3e556a9d355" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Life Domain " />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Bless;Target_CureWounds" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bbaf0bab-b0b3-44c9-a567-304e35c063c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Life Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Aid;Target_LesserRestoration" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9ff6ed3-050e-4963-b37b-c083285d6214" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Life Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_HealingWord_Mass;Teleportation_Revivify;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28d41365-bc69-437a-a968-cac8f3b4b2c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Life Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_DeathWard;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1b8b6282-c1f2-4095-89ab-aaefdf234317" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Life Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_CureWounds_Mass;Target_GreaterRestoration" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e2464518-2484-436e-9153-864c9dd05a7d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Light Domain" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Zone_BurningHands;Target_FaerieFire;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="31037493-7a57-4dce-9412-4689c010199c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Light Domain 2" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_ScorchingRay;Shout_SeeInvisibility" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a50d25a-27b5-4789-b2d6-532fac4437c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Light Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Daylight_Container;Projectile_Fireball" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="41ded14f-d752-42c0-8405-be0e7b0f2177" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Light Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Wall_WallOfFire;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5675d0b3-8a2c-4658-bfe3-42abbc0bdcfd" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Light Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_FlameStrike;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cba2f112-697f-4611-ae1d-758bf25ab3fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Nature Domain 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_SpeakWithAnimals;Target_AnimalFriendship" />
+      </fields>
+    </stat_object>
+    <stat_object color="#00FFFFFF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dd2b48a8-3e62-435e-8107-0d48f51dc555" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Nature Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_SpikeGrowth;Target_Barkskin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90e89ac3-c805-4214-a73e-817c366ba8b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Nature Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_PlantGrowth;Target_SleetStorm" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc45c1a8-ec0c-4da9-9d65-0e2ef36558d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Nature Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_DominateBeast;Target_GraspingVine" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5609f93-a17c-456c-a7bb-3b4203bb2eea" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Nature Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_InsectPlague;Wall_WallOfStone" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0888d55d-6382-4149-9b62-90a9579b0ec4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Tempest Domain 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Zone_Thunderwave;Target_FogCloud" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a05bd5e7-c815-4db7-9a21-66dc08d03e44" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Tempest Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Shatter;Zone_GustOfWind" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4bac4d53-69e6-4f7d-b935-cd38ca8c938d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Tempest Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_CallLightning;Target_SleetStorm" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fc1fa4ea-8294-4f3b-9df9-f5d64e528093" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Tempest Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_IceStorm;Target_FreedomOfMovement" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="87d05f19-7198-424a-93ac-cf222ca25fc7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Tempest Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_DestructiveWave;Target_InsectPlague" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98ef625f-d127-4fc3-8e37-37a4b27e6393" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Trickery Domain" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_CharmPerson;Shout_DisguiseSelf" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Trickery Domain 2" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Invisibility;Shout_PassWithoutTrace" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8a9faf7a-aacf-43f4-a0dd-5ea7e72449f3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Trickery Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_HypnoticPattern;Zone_Fear" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="18e97e4a-d97b-4595-af80-8eb43766386e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Trickery Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Confusion;Teleportation_DimensionDoor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="154b461e-23c2-4147-97fd-b7892f031a50" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric Trickery Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_DominatePerson;" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e785b163-bff3-4134-978c-20b654dc7203" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric War Domain 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_GuildingBolt;Target_ShieldOfFaith" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="921a657e-e210-4657-9e65-1e9748626354" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric War Domain 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_MagicWeapon;Target_SpiritualWeapon" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9846b998-4672-4427-821f-c3647aff5e22" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric War Domain 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_CrusadersMantle;Shout_SpiritGuardians" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c779ace-7ff1-461c-abc4-13182424b89a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric War Domain 7" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_FireShield;Target_FreedomOfMovement" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e4db6a6-fbfd-42eb-9e76-de00c0e4517a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cleric War Domain 9" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_FlameStrike;Target_HoldMonster" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

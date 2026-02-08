@@ -3,4 +3,32 @@
   <content contentuid="h32d2b53dg36cdg7a37g2013gbce07c8eaddd" version="1">Cleric</content>
   <content contentuid="h2cb994b8g66d1g3f8fg2b63g72ca58674df8" version="1">Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill.</content>
   <content contentuid="h6afca2c0gcb1bg211eg11cagafa5734cee5d" version="1">Select Domain</content>
+  <content contentuid="h08386bddg0fa6g3869g519bg4b231bfbaf10" version="1">DivineOrder_Protector</content>
+  <content contentuid="hdac4ebe1ga8d8ge0ccgb64eg58e8356b4bf5" version="1">DivineOrder_Protector</content>
+  <content contentuid="h8134307egd8f9ge3b6g49ccgf16667efdbe0" version="1">DivineOrder_Thaumaturge</content>
+  <content contentuid="h36795dcbgb81ag723fg427dgef12fdf09cbd" version="1">DivineOrder_Thaumaturge</content>
+  <content contentuid="hadf45d30g0290g6415gdb6agb61d09416a95" version="2">Death Domain</content>
+  <content contentuid="hc245e649g18e0g3121g77cegbf37c2dbf776" version="2">You nourish your faith on the forces that create the dead and give rise to the undead.</content>
+  <content contentuid="h7f2b6bc7gbfecgbe77gf402gf8104c59d6f6" version="2">Death</content>
+  <content contentuid="hc9b4476agdd06g659dg133dg1fb278a020e2" version="2">Life Domain</content>
+  <content contentuid="h8c4a6615g577cg73bfgc734g076d6609cb1d" version="2">Tasked with the holy edict of preserving the body, mind, and soul, your god grants you a plethora of healing magics. </content>
+  <content contentuid="h9ab4367bg0b21g8821gef74gdf6695f96a5d" version="2">Life</content>
+  <content contentuid="hd0a57708g56aeg2f65gba47g15d8a66c0dce" version="2">Light Domain</content>
+  <content contentuid="h0037f26eg9c1bg825age511g0fcbb59918b7" version="2">Gods of primordial flame bathe you in resplendent light, providing magics to dispel darkness and immolate enemies.</content>
+  <content contentuid="h275636ceg9191g21a7gcc0dg7c7bdcc916d4" version="2">Light</content>
+  <content contentuid="hb25668c4g6b38g3eddgc114g8b1abcbf41da" version="2">Trickery Domain</content>
+  <content contentuid="h6cc5d3b7g9f64g621cgd14cgd23a3f462d7e" version="2">You wield the unorthodox divine tools of deceit and illusion in worship of your chosen deity.</content>
+  <content contentuid="h74b77002gb5fag5369g8cbfg2375e0a4b3e2" version="2">Trickery</content>
+  <content contentuid="hf2091ef7gcebbge4a8ge024g18ae6e718c4d" version="2">Knowledge Domain</content>
+  <content contentuid="h3e739f1eg4ee9g9e9bgbf98g2f3755c5c9dc" version="2">Knowledge</content>
+  <content contentuid="hb96f3659g205bgfaf1g9cccg8e87b42c6cc6" version="2">Adaptable and adroit in all manner of languages and skills, your mind is an intellectual cup brimming with exquisite knowing.</content>
+  <content contentuid="h117151c7g424fg8553g1af3g3e0bcb663850" version="2">Nature Domain</content>
+  <content contentuid="h3bb9fe8cg59a3g7af9g8af8gfbcf3498a4c9" version="2">Nature</content>
+  <content contentuid="hfe0cb3ddg6362ga503g9880gac6c70855684" version="2">You embody the vast viridian power of the natural world, an avatar of the subtle divinity of fruitfall, avian migration, woodland silence, and the landslide's roaring fury. </content>
+  <content contentuid="h985fb778g55b4g30ecg9c38g7353f400ae11" version="2">Tempest Domain</content>
+  <content contentuid="h5435d6efgbd0dg7d78gda0dgdf4925c6bf66" version="2">Tempest</content>
+  <content contentuid="hc2b0fb1dg7ffbg1a34gcba6gd045482e9fb2" version="2">Your faith has made you the very thunder that quakes the black firmament, the lightning coursing through the veins of a terrible storm. </content>
+  <content contentuid="hf7180910g5244g6b3agdff9g2f208c658ab6" version="2">War Domain</content>
+  <content contentuid="hc25e62c3gda26g247egfafcgc9ea128137bf" version="2">War</content>
+  <content contentuid="hc29a6216ge3f2g43d0g0a0cg656dbe44f7bc" version="2">Fortified by holy zeal, you brandish an arsenal of sacramental savagery to use against those you deem unrighteous. </content>
 </contentList>

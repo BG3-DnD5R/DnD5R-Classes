@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Knowledge Domain 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_Command_Container;"/>
+                    <attribute id="UUID" type="guid" value="6c7083cd-e957-449d-a652-33dfbd9785e6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Knowledge Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;"/>
+                    <attribute id="UUID" type="guid" value="2fbc1acc-ea80-4b61-9bed-e5e7dd50ad16"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Knowledge Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_SpeakWithDead;"/>
+                    <attribute id="UUID" type="guid" value="1ff2f87b-4570-4553-a5fa-f7b1cab557fc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Knowledge Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_Banishment;Target_Confusion;"/>
+                    <attribute id="UUID" type="guid" value="46b54ac1-7add-4ef3-8610-558aee8c4dda"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Knowledge Domain 9"/>
+                    <attribute id="UUID" type="guid" value="db3bbbe0-01cc-4e35-8186-0c6757182ec4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Life Domain "/>
+                    <attribute id="Spells" type="LSString" value="Target_Bless;Target_CureWounds"/>
+                    <attribute id="UUID" type="guid" value="26ffbe70-23c6-4918-9e6a-a3e556a9d355"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Life Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Aid;Target_LesserRestoration"/>
+                    <attribute id="UUID" type="guid" value="bbaf0bab-b0b3-44c9-a567-304e35c063c9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Life Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_HealingWord_Mass;Teleportation_Revivify;"/>
+                    <attribute id="UUID" type="guid" value="a9ff6ed3-050e-4963-b37b-c083285d6214"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Light Domain"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_FaerieFire;"/>
+                    <attribute id="UUID" type="guid" value="e2464518-2484-436e-9153-864c9dd05a7d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Light Domain 2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay;Shout_SeeInvisibility"/>
+                    <attribute id="UUID" type="guid" value="31037493-7a57-4dce-9412-4689c010199c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Light Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Daylight_Container;Projectile_Fireball"/>
+                    <attribute id="UUID" type="guid" value="1a50d25a-27b5-4789-b2d6-532fac4437c6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain"/>
+                    <attribute id="Spells" type="LSString" value="Target_CharmPerson;Shout_DisguiseSelf"/>
+                    <attribute id="UUID" type="guid" value="98ef625f-d127-4fc3-8e37-37a4b27e6393"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Invisibility;Shout_PassWithoutTrace"/>
+                    <attribute id="UUID" type="guid" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_Fear"/>
+                    <attribute id="UUID" type="guid" value="8a9faf7a-aacf-43f4-a0dd-5ea7e72449f3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Life Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;"/>
+                    <attribute id="UUID" type="guid" value="28d41365-bc69-437a-a968-cac8f3b4b2c6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Life Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds_Mass;Target_GreaterRestoration"/>
+                    <attribute id="UUID" type="guid" value="1b8b6282-c1f2-4095-89ab-aaefdf234317"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Light Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Wall_WallOfFire;"/>
+                    <attribute id="UUID" type="guid" value="41ded14f-d752-42c0-8405-be0e7b0f2177"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Light Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlameStrike;"/>
+                    <attribute id="UUID" type="guid" value="5675d0b3-8a2c-4658-bfe3-42abbc0bdcfd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Nature Domain 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_SpeakWithAnimals;Target_AnimalFriendship"/>
+                    <attribute id="UUID" type="guid" value="cba2f112-697f-4611-ae1d-758bf25ab3fd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Nature Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_SpikeGrowth;Target_Barkskin"/>
+                    <attribute id="UUID" type="guid" value="dd2b48a8-3e62-435e-8107-0d48f51dc555"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Nature Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlantGrowth;Target_SleetStorm"/>
+                    <attribute id="UUID" type="guid" value="90e89ac3-c805-4214-a73e-817c366ba8b2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Nature Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominateBeast;Target_GraspingVine"/>
+                    <attribute id="UUID" type="guid" value="cc45c1a8-ec0c-4da9-9d65-0e2ef36558d8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Nature Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_InsectPlague;Wall_WallOfStone"/>
+                    <attribute id="UUID" type="guid" value="f5609f93-a17c-456c-a7bb-3b4203bb2eea"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Tempest Domain 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Thunderwave;Target_FogCloud"/>
+                    <attribute id="UUID" type="guid" value="0888d55d-6382-4149-9b62-90a9579b0ec4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Tempest Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Shatter;Zone_GustOfWind"/>
+                    <attribute id="UUID" type="guid" value="a05bd5e7-c815-4db7-9a21-66dc08d03e44"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Tempest Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_CallLightning;Target_SleetStorm"/>
+                    <attribute id="UUID" type="guid" value="4bac4d53-69e6-4f7d-b935-cd38ca8c938d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Tempest Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_IceStorm;Target_FreedomOfMovement"/>
+                    <attribute id="UUID" type="guid" value="fc1fa4ea-8294-4f3b-9df9-f5d64e528093"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Tempest Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DestructiveWave;Target_InsectPlague"/>
+                    <attribute id="UUID" type="guid" value="87d05f19-7198-424a-93ac-cf222ca25fc7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_Confusion;Teleportation_DimensionDoor"/>
+                    <attribute id="UUID" type="guid" value="18e97e4a-d97b-4595-af80-8eb43766386e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;"/>
+                    <attribute id="UUID" type="guid" value="154b461e-23c2-4147-97fd-b7892f031a50"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric War Domain 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_GuildingBolt;Target_ShieldOfFaith"/>
+                    <attribute id="UUID" type="guid" value="e785b163-bff3-4134-978c-20b654dc7203"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric War Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_MagicWeapon;Target_SpiritualWeapon"/>
+                    <attribute id="UUID" type="guid" value="921a657e-e210-4657-9e65-1e9748626354"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric War Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_CrusadersMantle;Shout_SpiritGuardians"/>
+                    <attribute id="UUID" type="guid" value="9846b998-4672-4427-821f-c3647aff5e22"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric War Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FireShield;Target_FreedomOfMovement"/>
+                    <attribute id="UUID" type="guid" value="4c779ace-7ff1-461c-abc4-13182424b89a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric War Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlameStrike;Target_HoldMonster"/>
+                    <attribute id="UUID" type="guid" value="8e4db6a6-fbfd-42eb-9e76-de00c0e4517a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Death Domain 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_RayOfSickness"/>
+                    <attribute id="UUID" type="guid" value="b4ef4e54-3f09-49b6-bbb4-5d1121bfb325"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Death Domain 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Projectile_RayOfEnfeeblement"/>
+                    <attribute id="UUID" type="guid" value="070e22ed-b6f9-44ee-befa-fe611c95cfee"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Death Domain 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_VampiricTouch"/>
+                    <attribute id="UUID" type="guid" value="7f94a649-35bb-4ef1-bd77-6a7ee6206db9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Death Domain 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blight;Target_DeathWard"/>
+                    <attribute id="UUID" type="guid" value="9bd92577-7ab4-43d4-bb4c-11b7a4b3dab0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Death Domain 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Target_Contagion"/>
+                    <attribute id="UUID" type="guid" value="673543a9-8656-4c1d-8567-88ec32f2ca94"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
